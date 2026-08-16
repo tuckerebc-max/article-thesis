@@ -1,0 +1,6 @@
+interface:
+  display_name: "Article Thesis"
+  short_description: "Build field-moving article theses"
+  default_prompt: "Use $article-thesis to develop a field-moving article thesis, map its evidence and corpus, define a distinctive voice, and connect it to an ethical hook, headline, and narrative structure."
+policy:
+  allow_implicit_invocation: true
